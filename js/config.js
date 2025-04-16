@@ -2,7 +2,7 @@
 
 // --- Configuration ---
 export const USER_DID = 'did:plc:xglrcj6gmrpktysohindaqhj'; // <<< YOUR DID (Used to find YOUR posts) >>>
-export const BLOG_POST_NSID = 'app.blog.post';
+export const BLOG_POST_NSID = 'sky.write.on.pages';
 export const POSTS_PER_PAGE = 10; // Used if pagination is re-enabled, currently fetches all.
 export const MAX_LIST_LIMIT = 100; // Max records per API request
 
